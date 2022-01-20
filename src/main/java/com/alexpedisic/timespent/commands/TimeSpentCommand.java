@@ -39,9 +39,6 @@ public class TimeSpentCommand implements CommandExecutor {
                     //Total Playtime
                     p.sendMessage("Total Playtime: " + Playtime.getTotalPlaytime(p));
 
-                    Block b = p.getEyeLocation().add(0,1,0).getBlock();
-                    b.setType(Material.GRASS);
-
                     return true;
                 }
             }
