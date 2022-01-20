@@ -1,0 +1,9 @@
+name: TimeSpent
+version: 1.0.0
+description: Get paid to play!
+main: com.alexpedisic.timespent.TimeSpent
+author: Astronaut
+
+commands:
+  timespent:
+    description: View Your Playtime Stats.

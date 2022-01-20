@@ -1,0 +1,6 @@
+com/alexpedisic/timespent/util/PlaytimeConfig.class
+com/alexpedisic/timespent/commands/TimeSpentCommand.class
+com/alexpedisic/timespent/TimeSpent.class
+com/alexpedisic/timespent/listeners/JoinListener.class
+com/alexpedisic/timespent/util/Playtime.class
+com/alexpedisic/timespent/listeners/LeaveListener.class
