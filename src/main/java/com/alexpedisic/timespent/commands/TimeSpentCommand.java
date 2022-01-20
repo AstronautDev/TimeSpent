@@ -38,7 +38,6 @@ public class TimeSpentCommand implements CommandExecutor {
 
                     //Total Playtime
                     p.sendMessage("Total Playtime: " + Playtime.getTotalPlaytime(p));
-
                     return true;
                 }
             }
